@@ -17,4 +17,4 @@ I work on **system architecture, distributed systems, reliability, observability
 ## 📫 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/didik-prabowo/)
-- [Old GIthub](https://www.linkedin.com/didikprabowo)
+- [Old GIthub](https://github.com/didikprabowo)
