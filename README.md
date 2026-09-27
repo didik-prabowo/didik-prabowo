@@ -16,7 +16,7 @@ I work on **system architecture, distributed systems, reliability, observability
 
 ## 📝 Snippets
 
-Notes and small snippets → [gist.github.com/YOUR_USERNAME](https://gist.github.com/YOUR_USERNAME)
+Notes and small snippets → [gist.github.com/didik-prabowo](https://gist.github.com/didik-prabowo)
 
 ## 📫 Connect
 
