@@ -14,7 +14,11 @@ I work on **system architecture, distributed systems, reliability, observability
 - 🤖 AI-powered applications & developer tools
 - 🛠️ Automation and engineering tools
 
+## 📝 Snippets
+
+Notes and small snippets → [gist.github.com/YOUR_USERNAME](https://gist.github.com/YOUR_USERNAME)
+
 ## 📫 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/didik-prabowo/)
-- [Old GIthub](https://github.com/didikprabowo)
+- [Old GitHub](https://github.com/didikprabowo)
